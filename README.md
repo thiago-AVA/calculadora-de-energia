@@ -1,1 +1,11 @@
-# calculadora-de-energia
+#  Cálculo de Energia
+Este projeto em Python foi criado para praticar o ciclo **Entrada → Processamento →
+Saída**. 
+O programa solicita o **nome do aparelho** , watts **potencia watts**, **horas uso**, para calcular os gastos mensais e diarios.
+
+formula usada
+potencia x horas por dia x 30 / 1000
+
+![Energia](https://shields.io)
+![GitHub](https://shields.io)
+![Python](https://shields.io)
