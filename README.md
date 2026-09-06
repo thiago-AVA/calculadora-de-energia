@@ -6,6 +6,6 @@ O programa solicita o **nome do aparelho** , watts **potencia watts**, **horas u
 formula usada
 potencia x horas por dia x 30 / 1000
 
-![Energia](https://shields.io)
-![GitHub](https://shields.io)
 ![Python](https://shields.io)
+![GitHub](https://shields.io)
+![Energia](https://shields.io⚡-yellow?style=flat)
