@@ -6,8 +6,13 @@ O programa solicita o **nome do aparelho** , watts **potencia watts**, **horas u
 formula usada
 potencia x horas por dia x 30 / 1000
 
-<div style="display: inline_block">
-  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="GitHub" height="40" width="40" src="https://jsdelivr.net">
-  <img align="center" alt="Energia" height="40" width="40" src="https://iconify.design">
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="40" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+
+  <img align="center" alt="GitHub" height="40" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+
+  <img align="center" alt="Energia" height="40" width="40"
+    src="https://img.icons8.com/color/48/lightning-bolt.png">
 </div>
